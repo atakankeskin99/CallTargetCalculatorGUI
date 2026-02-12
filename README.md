@@ -50,9 +50,16 @@ This project is part of my learning journey in:
 - Building GUI-based tools from console applications
 
 
-## 🖼️ Application Screenshot
+<h2>🖼️ Application Screenshot</h2>
 
-![Application Screenshot](images/screenshot.png)
+<p align="center">
+  <img src="images/screenshot.png" alt="Call Target Calculator GUI Screenshot" width="800" />
+  <br/>
+  <em>Call Target Calculator — WinForms GUI</em>
+</p>
+
+
+
 
 
   ## 🧠 Mini Case Study — Call Target Calculator (WinForms)
@@ -160,6 +167,6 @@ Although simple, this project demonstrates:
 
 It represents a practical step in transitioning from console-based programming to GUI application development.
 
-This is a **learning milestone**, not a showcase masterpiece — and that is intentional.
+This represents another step forward in learning journey.
 
 
