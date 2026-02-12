@@ -1,8 +1,13 @@
 # Call Target Calculator (WinForms GUI)
+![C#](https://img.shields.io/badge/C%23-WinForms-blue)
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
+![Status](https://img.shields.io/badge/status-learning%20project-lightgrey)
 
-A Windows Forms (C#) graphical implementation of the original console-based Call Target Calculator.
+A Windows Forms (C#) application that calculates the required call pace to reach a fixed daily performance target.  
 
-This version allows call center agents to calculate their required call pace through a simple desktop interface.
+This project is the GUI implementation of my original Java console version.
+
+
 
 ---
 
@@ -30,6 +35,13 @@ The core calculation logic has been adapted from Java to C# and redesigned with 
 - Input validation with user-friendly error messages
 - Read-only output panel
 
+## 🧮 Core Calculation Logic
+
+- Daily target: 200 calls
+- Daily net working hours: 8.5 hours
+- Net worked time = Login hours − (Break minutes / 60)
+- Required pace = Remaining calls / Remaining hours
+  
 ---
 
 ## 🛠 Tech Stack
@@ -71,7 +83,8 @@ During a working day, it can be difficult to track performance pace relative to 
 This project provides a simple tool that calculates the required call rate based on logged-in hours, break time, and calls completed so far.
 
 
-This project aims to provide a simple desktop tool that calculates the required call pace in real time.
+This project provides a simple tool that calculates the required call rate based on logged-in hours, break time, and calls completed so far.
+
 
 ---
 
@@ -167,6 +180,7 @@ Although simple, this project demonstrates:
 
 It represents a practical step in transitioning from console-based programming to GUI application development.
 
-This represents another step forward in learning journey.
+This represents another step forward in my learning journey.
+
 
 
