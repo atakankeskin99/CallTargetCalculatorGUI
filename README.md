@@ -50,6 +50,11 @@ This project is part of my learning journey in:
 - Building GUI-based tools from console applications
 
 
+## 🖼️ Application Screenshot
+
+![Application Screenshot](images/screenshot.png)
+
+
   ## 🧠 Mini Case Study — Call Target Calculator (WinForms)
 
 ### 📌 Problem
