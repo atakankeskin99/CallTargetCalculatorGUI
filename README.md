@@ -182,5 +182,13 @@ It represents a practical step in transitioning from console-based programming t
 
 This represents another step forward in my learning journey.
 
+---
+
+## Other Implementation
+This project also exists in different forms:
+
+- 🌐 **Web-based version**  
+  https://github.com/atakankeskin99/call-target-calculator-web
+
 
 
